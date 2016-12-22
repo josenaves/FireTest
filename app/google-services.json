@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364843504048",
+    "firebase_url": "https://firetest-1e348.firebaseio.com",
+    "project_id": "firetest-1e348",
+    "storage_bucket": "firetest-1e348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364843504048:android:88aeb56e74c55e28",
+        "android_client_info": {
+          "package_name": "br.com.nightduck.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364843504048-9cumfct3e0bekv030j8ilikr0m7f8385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Q-qZdwcy7Q3oLh6u-JcT18g4q4TXdCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
