@@ -48,9 +48,7 @@ public class PautaActivity extends AppCompatActivity {
             DatabaseReference newPauta = mDatabase.push();
 
             newPauta.child("titulo").setValue(titulo_val);
-            newPauta.child("Descrição").setValue(descricao_val);
-
-
+            newPauta.child("descricao").setValue(descricao_val);
 
 
             Intent intent = new Intent(this,MainActivity.class);
